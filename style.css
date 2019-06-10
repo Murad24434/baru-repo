@@ -1,0 +1,12 @@
+button{
+  background-color: lightgreen;
+  border-style: solid;
+  border-color: red;
+  margin-right: 80%;
+  padding: 10px;
+  text-align: center;
+}
+button:hover{
+  background-color: lightblue;
+  padding: 10.5px;
+}
